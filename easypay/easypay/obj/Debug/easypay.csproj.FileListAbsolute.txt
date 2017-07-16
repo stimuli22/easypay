@@ -1,0 +1,10 @@
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\bin\Debug\easypay.exe.config
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\bin\Debug\easypay.exe
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\bin\Debug\easypay.pdb
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\obj\Debug\easypay.csprojResolveAssemblyReference.cache
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\obj\Debug\easypay.Form1.resources
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\obj\Debug\easypay.Properties.Resources.resources
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\obj\Debug\easypay.csproj.GenerateResource.Cache
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\obj\Debug\easypay.exe
+c:\users\wilx\documents\visual studio 2013\Projects\easypay\easypay\obj\Debug\easypay.pdb
+C:\Users\wilx\Documents\Visual Studio 2013\Projects\easypay\easypay\bin\Debug\MySql.Data.dll

@@ -1,0 +1,10 @@
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\bin\Debug\easypaycashier.exe.config
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\bin\Debug\easypaycashier.exe
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\bin\Debug\easypaycashier.pdb
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\bin\Debug\MySql.Data.dll
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\obj\Debug\easypaycashier.csprojResolveAssemblyReference.cache
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\obj\Debug\easypaycashier.Form1.resources
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\obj\Debug\easypaycashier.Properties.Resources.resources
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\obj\Debug\easypaycashier.csproj.GenerateResource.Cache
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\obj\Debug\easypaycashier.exe
+c:\users\wilx\documents\visual studio 2013\Projects\easypaycashier\easypaycashier\obj\Debug\easypaycashier.pdb
